@@ -1,2 +1,2 @@
 This is the first line
-This is the second line for Challenge 1
+This is the second line
