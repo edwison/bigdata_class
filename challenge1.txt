@@ -4,3 +4,6 @@ The list of animals
 3 Salmon
 4 Rabbit
 5 Monkey
+6 Bird
+7 Spider
+8 Whale
